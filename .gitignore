@@ -1,0 +1,5 @@
+#virtual environment
+iotvenv/
+
+#dataset
+IoT Network Intrusion Dataset.csv
